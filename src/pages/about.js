@@ -13,12 +13,37 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="about" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
+            
+    eherherherher
+    erher
+    h
+    eh
+    erh
+    erherherh
+    
+    erh
+    er
+    her
+    h
+    erh
+    erh
+    erhwjrywvtaw4tv3vy45yv45vy
+    54
+    vy45v
+    45v
+    y45vy
+    45v
+    y45v
+    v
+    4
+    
+    
+    Clean, minimal, and deeply customisable. London is a theme made for
             people who appreciate simple lines.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
